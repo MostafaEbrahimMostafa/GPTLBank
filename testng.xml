@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Smoke Suiete">
+    <test verbose="2" preserve-order="true" name="Smoke Test">
+        <classes>
+            <class name="LoginPageTest">
+            </class>
+            <class name="HomePageTest">
+            </class>
+            <class name="NewCustomerPageTest">
+            </class>
+            <class name="EditCustomerPageTest">
+            </class>
+            <class name="DeleteCustomerPageTest">
+            </class>
+            <class name="NewAccountPageTest">
+            </class>
+            <class name="EditAccountPageTest">
+            </class>
+            <class name="DeleteAccountPageTest">
+            </class>
+            <class name="MinStatementPageTest">
+            </class>
+            <class name="CustomizedStatementPageTest">
+            </class>
+            <class name="LogoutPageTest">
+            </class>
+        </classes>
+    </test>
+</suite>
