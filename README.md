@@ -56,6 +56,10 @@ This project represents a **milestone in my automation testing journey**, integr
 
 🔹 I am excited about applying these skills to future projects to drive quality and efficiency! Let’s connect and exchange ideas about enhancing software testing practices.
 
+## 🎥 Project Demo
+Check out the full project demonstration video here:  
+📺 **[Watch Demo](https://drive.google.com/file/d/1hh2kHIwAQyEiSKv4F9ZwdDwVyCHW8Gpi/view?usp=sharing)**  
+
 ## 📩 Contact
 For any inquiries, collaborations, or contributions, feel free to reach out:
 
